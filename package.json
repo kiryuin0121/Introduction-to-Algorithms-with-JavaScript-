@@ -1,6 +1,5 @@
 {
-  "name": "intro-algo-js",
-  "module": "index.ts",
+  "name": "fe-b",
   "type": "module",
   "private": true,
   "devDependencies": {
